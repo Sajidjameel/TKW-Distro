@@ -6,7 +6,7 @@ Discover a wide range of high-quality vape products at TK Wholesale Distribution
 
 ## 🛠️ Project Overview
 
-The **TK Wholesale Distribution** website is an eCommerce platform built on **BigCommerce**, specializing in wholesale vape products. Designed to cater to retailers and distributors, the site offers an extensive range of high-quality vape devices, e-liquids, and accessories. The platform combines advanced navigation, bulk ordering options, secure payment gateways, and mobile optimization, providing a streamlined shopping experience for wholesale customers. With fast loading times and a responsive design, it ensures seamless access across devices for optimal performance.
+The **TK Wholesale Distribution** website is an eCommerce platform built on **BigCommerce**, specializing in wholesale vape products. Designed to cater to retailers and distributors, the site offers an extensive range of high-quality vape devices, e-liquids, and accessories. The platform combines advanced navigation, bulk ordering options, secure payment gateways or  mobile optimization, providing a streamlined shopping experience for wholesale customers. With fast loading times and a responsive design, it ensures seamless access across devices for optimal performance.
 
 This project demonstrates my ability to build feature-rich, user-friendly eCommerce platforms that support business growth while delivering a smooth, secure experience for customers.
 
